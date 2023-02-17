@@ -1,0 +1,21 @@
+.video{
+    width:48%;
+    height:500px;
+    border: none;
+}
+.filme-head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.filme-head i
+{
+float: right;
+}
+
+.conquistas-text span
+{
+color: orange;
+}
